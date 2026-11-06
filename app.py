@@ -1,3 +1,4 @@
+# KR2: Parfenov
 import os
 import socket
 
